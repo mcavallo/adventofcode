@@ -1,0 +1,13 @@
+{
+  "name": "adventofcode-2017",
+  "version": "1.0.0",
+  "description": "Solutions for http://adventofcode.com/",
+  "repository": "https://github.com/mcavallo/adventofcode",
+  "scripts": {},
+  "author": "Mariano Cavallo",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "lodash": "^4.17.4"
+  }
+}
